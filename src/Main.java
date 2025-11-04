@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Neeraj");
 
         System.out.println("Wax");
+        System.out.println("Hachie");
     }
 }

@@ -8,5 +8,6 @@ public class Main {
 
         System.out.println("Hachie");
         System.out.println("Wax");
+        System.out.println("Hachie");
     }
 }
